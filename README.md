@@ -4,7 +4,7 @@
   
   ![Version](https://img.shields.io/badge/version-v1.2-00d2ff.svg?style=flat-square)
   ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-lightgrey.svg?style=flat-square)
-  ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
+ 
 </div>
 
 ---
