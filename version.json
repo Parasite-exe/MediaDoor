@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "url": "https://github.com/Parasite-exe/MediaDoor/releases/download/v1.2/MediaDoor_v1.2_setup.exe",
-  "changelog": "What's new in v1.2:\n• Full Playlist Processing & Batch Downloading\n• Multi-Platform Support (YouTube, Facebook, Insta)\n• Interactive Selection UI (Drag-to-select)\n• Smart Duplicate Detection\n• Overhauled Native Auto-Updater\n• Quick Media Actions (Play & Show in Folder)\n• Threading & Background Stability Improvements",
+  "changelog": "What's new in v1.2:\n\n• Full Playlist Processing & Batch Downloading\n• Multi-Platform Support (YouTube, Facebook, Insta)\n• Interactive Selection UI (Drag-to-select)\n• Smart Duplicate Detection\n• Overhauled Native Auto-Updater\n• Quick Media Actions (Play & Show in Folder)\n• Threading & Background Stability Improvements",
   "release_date": "October 1, 2026",
   "filesize": "175 MB"
 }
