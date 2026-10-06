@@ -11,12 +11,12 @@
 
 ## ✨ Key Features
 
-*   **🚀 Playlist & Batch Downloading:** Paste a playlist link to parse, search, and batch-download multiple videos into automatically generated folders.
-*   **🎯 Advanced Selection UI:** Choose exact formats and presets for individual videos using a drag-to-select dialog with live search filtering.
-*   **📺 High-Resolution Support:** Automatically detects and downloads pristine 4K and 2K streams.
-*   **🔄 Format Standardization:** Embedded FFmpeg post-processing forces automatic container remuxing into standard `.mp4` format for maximum compatibility.
-*   **🛡️ Seamless Auto-Updates:** A rebuilt native automatic updater safely bypasses SSL blocks and cleanly installs future patches without touching your registry uninstaller.
-*   **📂 Smart File Management:** Highlights previously downloaded videos to prevent duplicates and provides instant "Play" and "Show in Folder" actions upon completion.
+*   ** Playlist & Batch Downloading:** Paste a playlist link to parse, search, and batch-download multiple videos into automatically generated folders.
+*   ** Advanced Selection UI:** Choose exact formats and presets for individual videos using a drag-to-select dialog with live search filtering.
+*   ** High-Resolution Support:** Automatically detects and downloads pristine 4K and 2K streams.
+*   ** Format Standardization:** Embedded FFmpeg post-processing forces automatic container remuxing into standard `.mp4` format for maximum compatibility.
+*   ** Seamless Auto-Updates:** A rebuilt native automatic updater safely bypasses SSL blocks and cleanly installs future patches without touching your registry uninstaller.
+*   ** Smart File Management:** Highlights previously downloaded videos to prevent duplicates and provides instant "Play" and "Show in Folder" actions upon completion.
 
 ## 📥 Installation
 
